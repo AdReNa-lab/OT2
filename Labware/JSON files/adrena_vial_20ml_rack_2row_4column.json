@@ -1,0 +1,143 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1"
+        ],
+        [
+            "A2",
+            "B2"
+        ],
+        [
+            "A3",
+            "B3"
+        ],
+        [
+            "A4",
+            "B4"
+        ]
+    ],
+    "brand": {
+        "brand": "AdReNa",
+        "brandId": [
+            "adrena_vial_20ml_rack_2row_4column"
+        ]
+    },
+    "metadata": {
+        "displayName": "adrena_vial_20ml_rack_2row_4column",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.75,
+        "yDimension": 85.5,
+        "zDimension": 64.1
+    },
+    "wells": {
+        "A1": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 17.76,
+            "y": 58.09,
+            "z": 8.5
+        },
+        "B1": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 17.76,
+            "y": 27.09,
+            "z": 8.5
+        },
+        "A2": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 48.76,
+            "y": 58.09,
+            "z": 8.5
+        },
+        "B2": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 48.76,
+            "y": 27.09,
+            "z": 8.5
+        },
+        "A3": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 79.76,
+            "y": 58.09,
+            "z": 8.5
+        },
+        "B3": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 79.76,
+            "y": 27.09,
+            "z": 8.5
+        },
+        "A4": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 110.76,
+            "y": 58.09,
+            "z": 8.5
+        },
+        "B4": {
+            "depth": 55.6,
+            "totalLiquidVolume": 20000,
+            "shape": "circular",
+            "diameter": 17,
+            "x": 110.76,
+            "y": 27.09,
+            "z": 8.5
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "A2",
+                "B2",
+                "A3",
+                "B3",
+                "A4",
+                "B4"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "adrena_vial_20ml_rack_2row_4column"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

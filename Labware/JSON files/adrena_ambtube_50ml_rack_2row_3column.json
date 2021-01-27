@@ -1,0 +1,119 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1"
+        ],
+        [
+            "A2",
+            "B2"
+        ],
+        [
+            "A3",
+            "B3"
+        ]
+    ],
+    "brand": {
+        "brand": "AdReNa",
+        "brandId": [
+            "adrena_ambtube_50ml_rack_2row_3column"
+        ]
+    },
+    "metadata": {
+        "displayName": "AdReNa 6 Well Plate 50000 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.75,
+        "yDimension": 85.5,
+        "zDimension": 117.5
+    },
+    "wells": {
+        "A1": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 28.58,
+            "y": 62.9,
+            "z": 3.8
+        },
+        "B1": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 28.58,
+            "y": 23.1,
+            "z": 3.8
+        },
+        "A2": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 65.08,
+            "y": 62.9,
+            "z": 3.8
+        },
+        "B2": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 65.08,
+            "y": 23.1,
+            "z": 3.8
+        },
+        "A3": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 101.58,
+            "y": 62.9,
+            "z": 3.8
+        },
+        "B3": {
+            "depth": 113.7,
+            "totalLiquidVolume": 50000,
+            "shape": "circular",
+            "diameter": 27.8,
+            "x": 101.58,
+            "y": 23.1,
+            "z": 3.8
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "v"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "A2",
+                "B2",
+                "A3",
+                "B3"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "adrena_ambtube_50ml_rack_2row_3column"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
