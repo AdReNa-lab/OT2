@@ -1,0 +1,222 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1",
+            "C1"
+        ],
+        [
+            "A2",
+            "B2",
+            "C2"
+        ],
+        [
+            "A3",
+            "B3",
+            "C3"
+        ],
+        [
+            "A4",
+            "B4",
+            "C4"
+        ],
+        [
+            "A5",
+            "B5",
+            "C5"
+        ]
+    ],
+    "brand": {
+        "brand": "AdReNa",
+        "brandId": [
+            "adrena_ambtube_15ml_rack_3row_5column"
+        ]
+    },
+    "metadata": {
+        "displayName": "AdReNa 15 Well Plate 15000 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.75,
+        "yDimension": 85.5,
+        "zDimension": 121.8
+    },
+    "wells": {
+        "A1": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 15.74,
+            "y": 66.49,
+            "z": 3.8
+        },
+        "B1": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 15.74,
+            "y": 42.49,
+            "z": 3.8
+        },
+        "C1": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 15.74,
+            "y": 18.49,
+            "z": 3.8
+        },
+        "A2": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 39.74,
+            "y": 66.49,
+            "z": 3.8
+        },
+        "B2": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 39.74,
+            "y": 42.49,
+            "z": 3.8
+        },
+        "C2": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 39.74,
+            "y": 18.49,
+            "z": 3.8
+        },
+        "A3": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 63.74,
+            "y": 66.49,
+            "z": 3.8
+        },
+        "B3": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 63.74,
+            "y": 42.49,
+            "z": 3.8
+        },
+        "C3": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 63.74,
+            "y": 18.49,
+            "z": 3.8
+        },
+        "A4": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 87.74,
+            "y": 66.49,
+            "z": 3.8
+        },
+        "B4": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 87.74,
+            "y": 42.49,
+            "z": 3.8
+        },
+        "C4": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 87.74,
+            "y": 18.49,
+            "z": 3.8
+        },
+        "A5": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 111.74,
+            "y": 66.49,
+            "z": 3.8
+        },
+        "B5": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 111.74,
+            "y": 42.49,
+            "z": 3.8
+        },
+        "C5": {
+            "depth": 118,
+            "totalLiquidVolume": 15000,
+            "shape": "circular",
+            "diameter": 15.2,
+            "x": 111.74,
+            "y": 18.49,
+            "z": 3.8
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "v"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "C1",
+                "A2",
+                "B2",
+                "C2",
+                "A3",
+                "B3",
+                "C3",
+                "A4",
+                "B4",
+                "C4",
+                "A5",
+                "B5",
+                "C5"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "adrena_ambtube_15ml_rack_3row_5column"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

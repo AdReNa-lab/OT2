@@ -1,0 +1,187 @@
+    {
+    "ordering": [
+        [
+            "A1",
+            "B1",
+            "C1"
+        ],
+        [
+            "A2",
+            "B2",
+            "C2"
+        ],
+        [
+            "A3",
+            "B3",
+            "C3"
+        ],
+        [
+            "A4",
+            "B4",
+            "C4"
+        ]
+    ],
+    "brand": {
+        "brand": "AdReNa",
+        "brandId": [
+            "adrena_vial_30ml_rack_3row_4column"
+        ]
+    },
+    "metadata": {
+        "displayName": "adrena_vial_30ml_rack_3row_4column",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.75,
+        "yDimension": 85.5,
+        "zDimension": 101.6
+    },
+    "wells": {
+        "A1": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 23.51,
+            "y": 69.94,
+            "z": 8.3
+        },
+        "B1": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 23.51,
+            "y": 42.94,
+            "z": 8.3
+        },
+        "C1": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 23.51,
+            "y": 15.94,
+            "z": 8.3
+        },
+        "A2": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 50.51,
+            "y": 69.94,
+            "z": 8.3
+        },
+        "B2": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 50.51,
+            "y": 42.94,
+            "z": 8.3
+        },
+        "C2": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 50.51,
+            "y": 15.94,
+            "z": 8.3
+        },
+        "A3": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 77.51,
+            "y": 69.94,
+            "z": 8.3
+        },
+        "B3": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 77.51,
+            "y": 42.94,
+            "z": 8.3
+        },
+        "C3": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 77.51,
+            "y": 15.94,
+            "z": 8.3
+        },
+        "A4": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 104.51,
+            "y": 69.94,
+            "z": 8.3
+        },
+        "B4": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 104.51,
+            "y": 42.94,
+            "z": 8.3
+        },
+        "C4": {
+            "depth": 93.3,
+            "totalLiquidVolume": 30000,
+            "shape": "circular",
+            "diameter": 15.6,
+            "x": 104.51,
+            "y": 15.94,
+            "z": 8.3
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "C1",
+                "A2",
+                "B2",
+                "C2",
+                "A3",
+                "B3",
+                "C3",
+                "A4",
+                "B4",
+                "C4"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "adrena_vial_30ml_rack_3row_4column"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

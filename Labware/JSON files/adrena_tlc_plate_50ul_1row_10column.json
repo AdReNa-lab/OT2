@@ -1,0 +1,177 @@
+{
+    "ordering": [
+        [
+            "A1"
+        ],
+        [
+            "A2"
+        ],
+        [
+            "A3"
+        ],
+        [
+            "A4"
+        ],
+        [
+            "A5"
+        ],
+        [
+            "A6"
+        ],
+        [
+            "A7"
+        ],
+        [
+            "A8"
+        ],
+        [
+            "A9"
+        ],
+        [
+            "A10"
+        ]
+    ],
+    "brand": {
+        "brand": "AdReNa",
+        "brandId": [
+            "adrena_tlc_plate_50ul_1row_10column"
+        ]
+    },
+    "metadata": {
+        "displayName": "adrena_tlc_plate_50ul_1row_10column",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.75,
+        "yDimension": 85.5,
+        "zDimension": 5.3
+    },
+    "wells": {
+        "A1": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 18.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A2": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 28.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A3": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 38.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A4": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 48.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A5": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 58.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A6": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 68.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A7": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 78.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A8": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 88.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A9": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 98.5,
+            "y": 70.5,
+            "z": 5.2
+        },
+        "A10": {
+            "depth": 0.1,
+            "totalLiquidVolume": 50,
+            "shape": "circular",
+            "diameter": 0.1,
+            "x": 108.5,
+            "y": 70.5,
+            "z": 5.2
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "flat"
+            },
+            "wells": [
+                "A1",
+                "A2",
+                "A3",
+                "A4",
+                "A5",
+                "A6",
+                "A7",
+                "A8",
+                "A9",
+                "A10"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "adrena_tlc_plate_50ul_1row_10column"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
