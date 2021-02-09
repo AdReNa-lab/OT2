@@ -1001,7 +1001,7 @@
   "parameters": {
     "format": "96Standard",
     "isTiprack": true,
-    "tipLength": 90,
+    "tipLength": 90.2,
     "tipOverlap": 8.10,
     "isMagneticModuleCompatible": false,
     "loadName": "adrena_tiprack_1250ul_8row_12column"
