@@ -1002,7 +1002,7 @@
     "format": "96Standard",
     "isTiprack": true,
     "tipLength": 55.88,
-    "tipOverlap": 6.2,
+    "tipOverlap": 7.11,
     "isMagneticModuleCompatible": false,
     "loadName": "adrena_tiprack_300ul_8row_12column"
   },
