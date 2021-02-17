@@ -1002,7 +1002,7 @@
     "format": "96Standard",
     "isTiprack": true,
     "tipLength": 59.3,
-    "tipOverlap": 8.0,
+    "tipOverlap": 12,
     "isMagneticModuleCompatible": false,
     "loadName": "adrena_opentrons_tiprack_50ul_8row_12column"
   },
