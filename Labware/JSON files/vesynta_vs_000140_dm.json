@@ -1,0 +1,257 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1",
+            "C1"
+        ],
+        [
+            "A2",
+            "B2",
+            "C2"
+        ],
+        [
+            "A3",
+            "B3",
+            "C3"
+        ],
+        [
+            "A4",
+            "B4",
+            "C4"
+        ],
+        [
+            "A5",
+            "B5",
+            "C5"
+        ],
+        [
+            "A6",
+            "B6",
+            "C6"
+        ]
+    ],
+    "brand": {
+        "brand": "Vesynta",
+        "brandId": [
+            "VS-000140-DM"
+        ]
+    },
+    "metadata": {
+        "displayName": "Vesynta 18 Well Plate 1500 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.48,
+        "zDimension": 72.9
+    },
+    "wells": {
+        "A1": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 18.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B1": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 18.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C1": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 18.88,
+            "y": 19.74,
+            "z": 35
+        },
+        "A2": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 36.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B2": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 36.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C2": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 36.88,
+            "y": 19.74,
+            "z": 35
+        },
+        "A3": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 54.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B3": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 54.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C3": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 54.88,
+            "y": 19.74,
+            "z": 35
+        },
+        "A4": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 72.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B4": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 72.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C4": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 72.88,
+            "y": 19.74,
+            "z": 35
+        },
+        "A5": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 90.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B5": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 90.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C5": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 90.88,
+            "y": 19.74,
+            "z": 35
+        },
+        "A6": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 108.88,
+            "y": 65.74,
+            "z": 35
+        },
+        "B6": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 108.88,
+            "y": 42.74,
+            "z": 35
+        },
+        "C6": {
+            "depth": 37.9,
+            "totalLiquidVolume": 1500,
+            "shape": "circular",
+            "diameter": 10,
+            "x": 108.88,
+            "y": 19.74,
+            "z": 35
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "v"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "C1",
+                "A2",
+                "B2",
+                "C2",
+                "A3",
+                "B3",
+                "C3",
+                "A4",
+                "B4",
+                "C4",
+                "A5",
+                "B5",
+                "C5",
+                "A6",
+                "B6",
+                "C6"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "vesynta_vs_000140_dm"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}

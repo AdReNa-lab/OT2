@@ -1,0 +1,152 @@
+{
+    "ordering": [
+        [
+            "A1",
+            "B1",
+            "C1"
+        ],
+        [
+            "A2",
+            "B2",
+            "C2"
+        ],
+        [
+            "A3",
+            "B3",
+            "C3"
+        ]
+    ],
+    "brand": {
+        "brand": "Vesynta",
+        "brandId": [
+            "VS-000135-DM"
+        ]
+    },
+    "metadata": {
+        "displayName": "Vesynta 9 Well Plate 5000 µL",
+        "displayCategory": "wellPlate",
+        "displayVolumeUnits": "µL",
+        "tags": []
+    },
+    "dimensions": {
+        "xDimension": 127.76,
+        "yDimension": 85.48,
+        "zDimension": 73.2
+    },
+    "wells": {
+        "A1": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 33.88,
+            "y": 72.74,
+            "z": 17.8
+        },
+        "B1": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 33.88,
+            "y": 42.74,
+            "z": 17.8
+        },
+        "C1": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 33.88,
+            "y": 12.74,
+            "z": 17.8
+        },
+        "A2": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 63.88,
+            "y": 72.74,
+            "z": 17.8
+        },
+        "B2": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 63.88,
+            "y": 42.74,
+            "z": 17.8
+        },
+        "C2": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 63.88,
+            "y": 12.74,
+            "z": 17.8
+        },
+        "A3": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 93.88,
+            "y": 72.74,
+            "z": 17.8
+        },
+        "B3": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 93.88,
+            "y": 42.74,
+            "z": 17.8
+        },
+        "C3": {
+            "depth": 55.4,
+            "totalLiquidVolume": 5000,
+            "shape": "circular",
+            "diameter": 14.9,
+            "x": 93.88,
+            "y": 12.74,
+            "z": 17.8
+        }
+    },
+    "groups": [
+        {
+            "metadata": {
+                "wellBottomShape": "v"
+            },
+            "wells": [
+                "A1",
+                "B1",
+                "C1",
+                "A2",
+                "B2",
+                "C2",
+                "A3",
+                "B3",
+                "C3"
+            ]
+        }
+    ],
+    "parameters": {
+        "format": "irregular",
+        "quirks": [],
+        "isTiprack": false,
+        "isMagneticModuleCompatible": false,
+        "loadName": "vesynta_vs_000135_dm"
+    },
+    "namespace": "custom_beta",
+    "version": 1,
+    "schemaVersion": 2,
+    "cornerOffsetFromSlot": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+    }
+}
