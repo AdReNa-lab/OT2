@@ -34,11 +34,11 @@
     "brand": {
         "brand": "Vesynta",
         "brandId": [
-            "VS-000152-RI"
+            "VS-000152-PN"
         ]
     },
     "metadata": {
-        "displayName": "VS-000152-RI - 1.5mL(capped) tube rack",
+        "displayName": "VS-000152-PN - 1.5mL(capped) tube rack",
         "displayCategory": "wellPlate",
         "displayVolumeUnits": "µL",
         "tags": []
@@ -244,7 +244,7 @@
         "quirks": [],
         "isTiprack": false,
         "isMagneticModuleCompatible": false,
-        "loadName": "vesynta_vs_000152_ri"
+        "loadName": "vs_000152_pn"
     },
     "namespace": "custom_beta",
     "version": 1,
